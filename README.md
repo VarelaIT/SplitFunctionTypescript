@@ -1,0 +1,1 @@
+# Simple split function in Typescript.
